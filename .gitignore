@@ -1,0 +1,12 @@
+# master_server/.gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.db
+*.db-journal
+.env
+game_servers.db
